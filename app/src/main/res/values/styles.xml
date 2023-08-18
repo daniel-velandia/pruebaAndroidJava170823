@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="border_radius_cardview" parent="@style/radius">
+        <item name="shapeAppearanceOverlay">@style/radius</item>
+    </style>
+
+
+    <style name="radius">
+        <item name="cornerSizeTopRight">0dp</item>
+        <item name="cornerSizeTopLeft">0dp</item>
+        <item name="cornerSizeBottomRight">12dp</item>
+        <item name="cornerSizeBottomLeft">12dp</item>
+    </style>
+</resources>
